@@ -127,4 +127,4 @@ If you have any questions or suggestions, feel free to contact me.
 
 - **Syed Issam Bukhari**
 - [GitHub Profile](https://github.com/syedissambukhari)
-- Email: [syedissambukhari33444@gmail.com](mailto:syedissambukhari33444@gmail.com)
+- Email: [syedissam33444@gmail.com](mailto:syedissam33444@gmail.com)
